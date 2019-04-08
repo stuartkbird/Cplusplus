@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sbird\source\repos\calculator_and_converter\calculator_and_converter\source.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sbird\source\repos\calculator_and_converter\calculator_and_converter\source.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  calculator_and_converter.vcxproj -> C:\Users\sbird\source\repos\calculator_and_converter\Debug\calculator_and_converter.exe
+  calculator_and_converter.vcxproj -> C:\Users\sbird\source\repos\calculator_and_converter\Debug\calculator_and_converter.pdb (Partial PDB)
